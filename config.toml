@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://aldi-h.github.io/aldi.github.io/'
 languageCode = 'en-us'
 title = 'Aldi Himawan'
 theme = "ananke"
